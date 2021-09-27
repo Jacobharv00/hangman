@@ -6,7 +6,7 @@
   </a>
 </p>
 
-![screenshot](https://github.com/Jacobharv00/hangman/issues/1#issue-1008805781)
+[![Screen-Shot-2021-09-27-at-5-30-21-PM.png](https://i.postimg.cc/HkkvtZ1x/Screen-Shot-2021-09-27-at-5-30-21-PM.png)](https://postimg.cc/D8RcvcZk)
 
 > Fun Hangman game that lets users guess the words by the letter that is pressed on the keyboard. 
 
