@@ -8,6 +8,10 @@
 
 > Fun Hangman game that lets users guess the words by the letter that is pressed on the keyboard. 
 
+![hangman](https://media.giphy.com/media/ybQIv0CsYm1XY9A8Dm/giphy.gif)
+
+
+
 ### 🏠 [Homepage](https://harvey-hangman.netlify.app)
 
 ### ✨ [Demo](https://harvey-hangman.netlify.app)
