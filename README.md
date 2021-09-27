@@ -6,6 +6,8 @@
   </a>
 </p>
 
+![screenshot](https://github.com/Jacobharv00/hangman/issues/1#issue-1008805781)
+
 > Fun Hangman game that lets users guess the words by the letter that is pressed on the keyboard. 
 
 ![hangman](https://media.giphy.com/media/ybQIv0CsYm1XY9A8Dm/giphy.gif)
