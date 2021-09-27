@@ -6,10 +6,9 @@
   </a>
 </p>
 
-[![Screen-Shot-2021-09-27-at-5-30-21-PM.png](https://i.postimg.cc/HkkvtZ1x/Screen-Shot-2021-09-27-at-5-30-21-PM.png)](https://postimg.cc/D8RcvcZk)
-
 > Welcome to Hangman! This hangman game allows users to guess words by pressing letters on the keyboard. Built with vanilla JavaScript. Utilized JavaScript classes for the core functionality. Achived using async await function from a third party libary for the randomly generated words. I used plain CSS for custom styling of the application. Some challenges I faced while building this application was using JacsScript classes and being able to display the correct thing when a certain action was taken during the game. In the furture I would like to implement a stick figure that grows for each letter guessed wrong. 
 
+[![Screen-Shot-2021-09-27-at-5-30-21-PM.png](https://i.postimg.cc/HkkvtZ1x/Screen-Shot-2021-09-27-at-5-30-21-PM.png)](https://postimg.cc/D8RcvcZk)
 
 ![hangman](https://media.giphy.com/media/ybQIv0CsYm1XY9A8Dm/giphy.gif)
 
