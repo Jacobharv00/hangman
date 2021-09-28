@@ -16,7 +16,7 @@
 
 ### 🏠 [Homepage](https://harvey-hangman.netlify.app)
 
-### ✨ [Demo](https://harvey-hangman.netlify.app)
+### ✨ [Demo](https://www.loom.com/share/0d736077bf6040baa96684cdb936e0e1)
 
 ## Install
 
