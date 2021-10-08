@@ -1,5 +1,4 @@
-# hangman
-<h1 align="center">Welcome to hangman 👋</h1>
+<h1 align="center">👋 Welcome to hangman 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/hangman" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/hangman.svg">
@@ -10,13 +9,12 @@
 
 [![Screen-Shot-2021-09-27-at-5-30-21-PM.png](https://i.postimg.cc/HkkvtZ1x/Screen-Shot-2021-09-27-at-5-30-21-PM.png)](https://postimg.cc/D8RcvcZk)
 
+### 🏠 [Homepage](https://harvey-hangman.netlify.app) 🏠
+<p>Come play some hangman!</p>
+
+### ✨ [Demo](https://www.loom.com/share/0d736077bf6040baa96684cdb936e0e1) ✨
+
 ![hangman](https://media.giphy.com/media/ybQIv0CsYm1XY9A8Dm/giphy.gif)
-
-
-
-### 🏠 [Homepage](https://harvey-hangman.netlify.app)
-
-### ✨ [Demo](https://www.loom.com/share/0d736077bf6040baa96684cdb936e0e1)
 
 ## Install
 
