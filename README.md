@@ -12,7 +12,7 @@
 ### 🏠 [Homepage](https://harvey-hangman.netlify.app) 🏠
 <p>Come play some hangman!</p>
 
-### ✨ [Demo](https://www.loom.com/share/0d736077bf6040baa96684cdb936e0e1) ✨
+### ✨ [Hangman Demo](https://www.loom.com/share/0d736077bf6040baa96684cdb936e0e1) ✨
 
 ![hangman](https://media.giphy.com/media/ybQIv0CsYm1XY9A8Dm/giphy.gif)
 
